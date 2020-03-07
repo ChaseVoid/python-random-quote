@@ -12,3 +12,5 @@ Favor focus over features
 Avoid administrative distraction
 Design for failure
 Keep it logically awesome
+We may not make a lot of money but at least we have our freedom
+If it's not on a plate, it can wait
